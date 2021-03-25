@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mp3", "WindowsFormsApp1\mp3.csproj", "{F3CDDCB0-0A9F-470E-AC42-D9E24A7F9C07}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{5F76F025-82FE-4120-B15A-99447142CB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3CDDCB0-0A9F-470E-AC42-D9E24A7F9C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CDDCB0-0A9F-470E-AC42-D9E24A7F9C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CDDCB0-0A9F-470E-AC42-D9E24A7F9C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CDDCB0-0A9F-470E-AC42-D9E24A7F9C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F76F025-82FE-4120-B15A-99447142CB14}.Debug|Any CPU.ActiveCfg = Debug
+		{5F76F025-82FE-4120-B15A-99447142CB14}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {723D6C2B-2C87-4F41-894B-2B6116C733DB}
+	EndGlobalSection
+EndGlobal

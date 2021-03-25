@@ -1,0 +1,15 @@
+D:\C# ứng dụng\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\C# ứng dụng\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\C# ứng dụng\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\C# ứng dụng\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+D:\C# ứng dụng\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+D:\C# ứng dụng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\mp3.csprojAssemblyReference.cache
+D:\C# ứng dụng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+D:\C# ứng dụng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+D:\C# ứng dụng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\mp3.csproj.ResolveComReference.cache
+D:\C# ứng dụng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fr_MP3.resources
+D:\C# ứng dụng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\C# ứng dụng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\mp3.csproj.GenerateResource.cache
+D:\C# ứng dụng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\mp3.csproj.CoreCompileInputs.cache
+D:\C# ứng dụng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\C# ứng dụng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
